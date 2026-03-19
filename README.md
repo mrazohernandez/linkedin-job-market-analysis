@@ -8,9 +8,9 @@ The analysis focuses specifically on data roles such as Data Analyst, Data Scien
 ---
 
 ## 🛠️ Tools Used
-- SQL (PostgreSQL)
-- Tableau
-- Excel
+- SQL (data extraction & aggregation)
+- Python (data cleaning & preprocessing)
+- Tableau (data visualization)
 
 ---
 
